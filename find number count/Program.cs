@@ -10,13 +10,13 @@ namespace find_number_count
     {
         static void Main(string[] args)
         {
-            int number;
+            Random random = new Random();
+            int minValue = 1;
+            int maxValue = 27;
+            int number = random.Next(minValue, maxValue + 1);
             int result = 0;
             int minBorder = 100;
             int maxBorder = 999;
-
-            Console.Write("Введи число из промежутка (1 <= N <= 27): ");
-            number = Convert.ToInt32(Console.ReadLine());
 
             for(int i = 0; i <= maxBorder; i += number)
             {
