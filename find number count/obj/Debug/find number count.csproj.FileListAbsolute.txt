@@ -1,0 +1,8 @@
+C:\Users\Danii\source\repos\find number count\find number count\bin\Debug\find number count.exe.config
+C:\Users\Danii\source\repos\find number count\find number count\bin\Debug\find number count.exe
+C:\Users\Danii\source\repos\find number count\find number count\bin\Debug\find number count.pdb
+C:\Users\Danii\source\repos\find number count\find number count\obj\Debug\find number count.csproj.AssemblyReference.cache
+C:\Users\Danii\source\repos\find number count\find number count\obj\Debug\find number count.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danii\source\repos\find number count\find number count\obj\Debug\find number count.csproj.CoreCompileInputs.cache
+C:\Users\Danii\source\repos\find number count\find number count\obj\Debug\find number count.exe
+C:\Users\Danii\source\repos\find number count\find number count\obj\Debug\find number count.pdb
